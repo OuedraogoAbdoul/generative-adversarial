@@ -1,0 +1,1 @@
+python evaluate.py --checkpoint wave.ckpt --in-path NUC.jpg --out-path ./output_image.jpg
